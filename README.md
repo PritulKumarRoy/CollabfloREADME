@@ -107,12 +107,12 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 </div>
 <br>
 
-
 ## 👥 **USER-SPECIFIC PROBLEMS**
 <br>
 
 ### **👨‍💼 BUSINESS USERS**
 <div align="center">
+  
 | **Category**         | **Specific Problem**                         | **Consequence**                            |
 |----------------------|---------------------------------------------|--------------------------------------------|
 | **Discovery**        | Can't filter creators by niche + budget     | Settle for mismatched talent               |
