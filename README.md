@@ -11,10 +11,11 @@ The 'Collabflo' is a mobile application where versatile businesses and creators 
 
 ## 🎯 Primary Goal
 Build a scalable Flutter platform connecting creators and businesses for seamless collaboration.
+<div align="center">
   
 <table>
 <tr>
-<td width="33%" valign="top" align="left">
+<td width="33%" valign="top">
 
 ### 🧑‍💻 **User Management**
 - Implement dual-role system
@@ -24,8 +25,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 - Privacy controls
 
 </td>
-<td width="33%" valign="top" align="left">
-</td>
+<td width="33%" valign="top">
 
 ### 🤝 **Collaboration Engine**
 - One-tap collaboration
@@ -35,7 +35,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 - Project management
 
 </td>
-<td width="33%" valign="top" align="left">
+<td width="33%" valign="top">
 
 ### ⚡ **Performance**
 - Cross-platform compatibility
@@ -47,7 +47,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top" align="left">
+<td width="33%" valign="top">
 
 ### 🔒 **Security & Reliability**
 - Row-Level Security (RLS)
@@ -57,7 +57,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 - Regular security audits
 
 </td>
-<td width="33%" valign="top" align="left">
+<td width="33%" valign="top">
 
 ### 📈 **Growth & Metrics**
 - 10K users in Year 1
@@ -67,7 +67,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 - 4.5/5 satisfaction rating
 
 </td>
-<td width="33%" valign="top" align="left">
+<td width="33%" valign="top">
 
 ### 🚀 **Future Expansion**
 - AI matchmaking system
@@ -79,6 +79,9 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 </td>
 </tr>
 </table>
+
+*"Enabling limitless opportunities through seamless collaboration."*
+
 </div>
 <br><br>
 
