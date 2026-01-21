@@ -84,6 +84,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 <br><br>
 
 # PROBLEM STATEMENTS <img src="g.png" width="40" align="left"/>
+<div align="center">
 
 ## 🔍 **The Core Problem**
 **Creator-Business Collaboration is Broken** - Fragmented across 7+ platforms, inefficient communication, and no standardized workflow causing **40% wasted time** and **missed opportunities**.
@@ -174,11 +175,13 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 • Decrease payment disputes by 90%<br>
 • Cut admin overhead from 25% to 5%<br>
 • Improve creator earnings transparency by 70%<br>
+</div>
 <br><br>
 
 # TECHNOLOGY STACK <img src="g.png" width="40" align="left"/>
 <br>
-
+<div align="center">
+  
 <table> 
 <tr> 
   <td> • <img src="l1.png" width="40" align="left"/> Flutter </td>
@@ -186,6 +189,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
   <td> • <img src="l3.png" width="40" align="left"/> Android Studio </td>
 </tr> 
 </table>
+</div>
 <br><br>
 
 # MOBILE INTERFACES <img src="i.png" width="40" align="left"/>
