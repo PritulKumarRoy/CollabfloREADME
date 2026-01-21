@@ -88,12 +88,13 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 
 # PROBLEM STATEMENTS <img src="g.png" width="40" align="left"/>
 <div align="center">
-
+<br>
+  
 ## 🔍 **The Core Problem**
 </div>
 **Creator-Business Collaboration is Broken** - Fragmented across 7+ platforms, inefficient communication, and no standardized workflow causing **40% wasted time** and **missed opportunities**.
+<br>
 
-  
 ## 📊 **MARKET & INDUSTRY CHALLENGES**
 <div align="center">
 
@@ -105,10 +106,12 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 | **Trust & Verification**| Fake metrics, no performance history        | 40% of collaborations underperform         |
 | **Monetization**        | Complex invoicing, delayed payments         | Average 45-day payment cycles              |
 </div>
+<br>
 
 
 ## 👥 **USER-SPECIFIC PROBLEMS**
 <div align="center">
+<br>
 
 ### **👨‍💼 BUSINESS USERS**
 | **Category**         | **Specific Problem**                         | **Consequence**                            |
@@ -119,6 +122,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 | **Payment**          | No escrow or milestone protection           | 15% project budget lost to disputes        |
 | **Scaling**          | Can't manage multiple creators efficiently  | Manual spreadsheet tracking                |
 </div>
+<br>
 
 ### **🎨 CREATOR USERS**
 <div align="center">
@@ -131,7 +135,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 | **Admin**            | Manual invoicing and contract management    | 20% time spent on non-creative work        |
 | **Growth**           | No clear path to premium rates/clients      | Stagnant career progression                |
 </div>
-
+<br>
 
 ## ⚙️ **TECHNICAL & PLATFORM CHALLENGES**
 <div align="center">
@@ -144,7 +148,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 | **Data Security**    | Sensitive project details in unsecured chats| IP theft and confidentiality breaches      |
 | **Scalability**      | Existing solutions crash at 1,000+ users    | Poor experience during peak usage          |
 </div>
-
+<br>
 
 ## 📈 **ECONOMIC & SCALABILITY PROBLEMS**
 <div align="center">
@@ -157,7 +161,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 | **Monetization**     | No integrated payment/tracking              | Users revert to external tools             |
 | **Growth**           | No viral or network effects                 | Linear, costly user acquisition            |
 </div> <!-- FIXED: Changed "/div> to </div> -->
-
+<br>
 
 ## 🔮 **FUTURE-READINESS GAPS**
 <div align="center">
@@ -170,10 +174,10 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 | **Analytics**        | Basic metrics, no actionable insights       | Users can't optimize their performance     |
 | **Globalization**    | Single currency/language support            | Missing 85% of addressable market          |
 </div>
-
+<br>
 
 ## 💡 **THE OPPORTUNITY STATEMENT**
-<div align="center">
+<br>
   
 **CollabFlo solves these interconnected problems by providing:**<br>
 ✅ **Unified Discovery** - Structured profiles with verified metrics<br>
@@ -188,7 +192,6 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 • Decrease payment disputes by 90%<br>
 • Cut admin overhead from 25% to 5%<br>
 • Improve creator earnings transparency by 70%<br>
-</div>
 <br><br>
 
 # TECHNOLOGY STACK <img src="g.png" width="40" align="left"/>
