@@ -25,6 +25,8 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 
 </td>
 <td width="33%" valign="top" align="left">
+</td>
+<div align="center">
 
 ### 🤝 **Collaboration Engine**
 - One-tap collaboration
