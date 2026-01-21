@@ -49,6 +49,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 - <2-second app loading
 - 4.5/5 user satisfaction rating
 - <1% crash rate
+<br><br>
 
 # PROBLEM STATEMENTS <img src="g.png" width="40" align="left"/>
 
@@ -141,6 +142,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 • Decrease payment disputes by 90%<br>
 • Cut admin overhead from 25% to 5%<br>
 • Improve creator earnings transparency by 70%<br>
+<br><br>
 
 # TECHNOLOGY STACK <img src="g.png" width="40" align="left"/>
 <br>
@@ -154,24 +156,18 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 </table>
 <br><br>
 
-# APPLICATION WORKING ARCHITECTURE <img src="d.png" width="40" align="left"/>
-<br>
-
-<p align="center"> <img src="h.png" height="100000" width="500"/> </p>
-<br><br>
-
 # MOBILE INTERFACES <img src="i.png" width="40" align="left"/>
 
 <table> 
   <tr valign="top">
   <td style ("border: none; text-align: left;">
-  <h3>Registration screen</h3>
+  <h3>Signin screen</h3>
     <br>
   <img src="sa.png" width="400">
     </td><br>
     
   <td style ("border: none; text-align: left;">
-  <h3>Login screen</h3>
+  <h3>Signup screen</h3>
     <br>
   <img src="sb.png" width="400">
     </td>
@@ -185,7 +181,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
     </td><br>
     
   <td style ("border: none; text-align: left;">
-  <h3>Location tracking screen</h3>
+  <h3>Chat screen</h3>
     <br>
   <img src="sd.png" width="400">
     </td>
@@ -193,13 +189,20 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
     
   <tr valign="top">
   <td style ("border: none; text-align: left;">
-  <h3>Custom geofence screen</h3>
+  <h3>Post screen</h3>
     <br>
   <img src="se.png" width="400">
     </td><br>
     
   <td style ("border: none; text-align: left;">
-  <h3>Map screen</h3>
+  <h3>Discover screen</h3>
+    <br>
+  <img src="sf.png" width="400">
+    </td>
+  </tr>
+
+  <td style ("border: none; text-align: left;">
+  <h3>Profile screen</h3>
     <br>
   <img src="sf.png" width="400">
     </td>
