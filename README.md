@@ -148,22 +148,8 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 <table> 
 <tr> 
   <td> • <img src="l1.png" width="40" align="left"/> Flutter </td>
-  <td> • <img src="l2.png" width="40" align="left"/> Firebase </td> 
-</tr> 
-<tr> 
-  <td> • <img src="l3.png" width="40" align="left"/> OpenStreetMap(OSM) </td>
-  <td> • <img src="l4.png" width="40" align="left"/> Java development kit(JDK) </td> 
-</tr> 
-<tr> 
-  <td> • <img src="l5.png" width="40" align="left"/> Gradle </td>
-  <td> • <img src="l8.png" width="40" align="left"/> Notepad </td> 
-</tr>
-<tr> 
-  <td> • <img src="l6.png" width="40" align="left"/> Android studio </td>
-  <td> • <img src="l7.png" width="40" align="left"/> Visual studio </td> 
-</tr> 
-<tr> 
-  <td> • <img src="l9.png" width="40" align="left"/> Map tiler </td>
+  <td> • <img src="l2.png" width="40" align="left"/> Supabase </td> 
+  <td> • <img src="l3.png" width="40" align="left"/> Android Studio </td>
 </tr> 
 </table>
 <br><br>
