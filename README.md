@@ -102,9 +102,8 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 | **Workflow**            | No standard process, manual tracking        | 25% admin overhead for simple projects     |
 | **Trust & Verification**| Fake metrics, no performance history        | 40% of collaborations underperform         |
 | **Monetization**        | Complex invoicing, delayed payments         | Average 45-day payment cycles              |
-
----
 </div>
+---
 
 ## 👥 **USER-SPECIFIC PROBLEMS**
 <div align="center">
@@ -128,7 +127,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 | **Portfolio**        | Static showcases, no interactive demos      | Reduced conversion from views to hires     |
 | **Admin**            | Manual invoicing and contract management    | 20% time spent on non-creative work        |
 | **Growth**           | No clear path to premium rates/clients      | Stagnant career progression                |
-,/div>
+</div>
 ---
 
 ## ⚙️ **TECHNICAL & PLATFORM CHALLENGES**
