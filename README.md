@@ -7,10 +7,10 @@
 The 'Collabflo' is a mobile application where versatile businesses and creators can create, connect and collaborate for limitless opportunities. Users can create respective profiles as "business" or a "creator",collab/uncollab each other, chat seamlessly and many more. This platform acts as a healthy ecosystem where businesses and creators collaborate to create something big.
 <br><br>
 
-<div align="center">
-
 # OBJECTIVES <img src="f.png" width="40" align="left"/>
 
+<div align="center">
+  
 ## 🎯 Primary Goal
 Build a scalable Flutter platform connecting creators and businesses for seamless collaboration.
 
