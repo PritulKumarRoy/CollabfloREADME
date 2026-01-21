@@ -11,7 +11,8 @@ The 'Collabflo' is a mobile application where versatile businesses and creators 
 
 ## 🎯 Primary Goal
 Build a scalable Flutter platform connecting creators and businesses for seamless collaboration.
-
+<div align="center">
+  
 <table>
 <tr>
 <td width="33%" valign="top" align="left">
@@ -26,7 +27,6 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 </td>
 <td width="33%" valign="top" align="left">
 </td>
-<div align="center">
 
 ### 🤝 **Collaboration Engine**
 - One-tap collaboration
