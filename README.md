@@ -87,11 +87,10 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 <br><br>
 
 # PROBLEM STATEMENTS <img src="g.png" width="40" align="left"/>
-<div align="center">
 <br>
   
 ## 🔍 **The Core Problem**
-</div>
+
 **Creator-Business Collaboration is Broken** - Fragmented across 7+ platforms, inefficient communication, and no standardized workflow causing **40% wasted time** and **missed opportunities**.
 <br>
 
