@@ -24,6 +24,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 - Profile verification system
 - Privacy controls
 
+<br>
 </td>
 <td width="33%" valign="top">
 
@@ -34,6 +35,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 - Status tracking
 - Project management
 
+<br>
 </td>
 <td width="33%" valign="top">
 
@@ -56,6 +58,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 - Data backup systems
 - Regular security audits
 
+<br>
 </td>
 <td width="33%" valign="top">
 
@@ -66,6 +69,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 - 90% onboarding success
 - 4.5/5 satisfaction rating
 
+<br>
 </td>
 <td width="33%" valign="top">
 
@@ -79,9 +83,6 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 </td>
 </tr>
 </table>
-
-*"Enabling limitless opportunities through seamless collaboration."*
-
 </div>
 <br><br>
 
