@@ -7,48 +7,80 @@
 The 'Collabflo' is a mobile application where versatile businesses and creators can create, connect and collaborate for limitless opportunities. Users can create respective profiles as "business" or a "creator",collab/uncollab each other, chat seamlessly and many more. This platform acts as a healthy ecosystem where businesses and creators collaborate to create something big.
 <br><br>
 
+<div align="center">
+
 # OBJECTIVES <img src="f.png" width="40" align="left"/>
 
 ## 🎯 Primary Goal
 Build a scalable Flutter platform connecting creators and businesses for seamless collaboration.
 
-## 📋 Core Objectives
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### 🧑‍💻 User Management
-- Implement dual-role system (Creator/Business)
-- Enable comprehensive profile setup
-- Provide secure authentication (Supabase)
+### 🧑‍💻 **User Management**
+- Implement dual-role system
+- Enable comprehensive profiles
+- Secure authentication
+- Profile verification system
+- Privacy controls
 
-### 🤝 Collaboration Engine
-- Facilitate one-tap collaboration requests
-- Build real-time text/voice messaging
-- Create collaboration status tracking
+</td>
+<td width="33%" valign="top">
 
-### ⚡ Performance & Scalability
-- Ensure cross-platform compatibility
-- Achieve 60 FPS performance
-- Support 10,000+ concurrent users
+### 🤝 **Collaboration Engine**
+- One-tap collaboration
+- Real-time messaging
+- Voice communication
+- Status tracking
+- Project management
 
-### 🔒 Security & Reliability
-- Implement Row-Level Security (RLS)
-- Maintain 99.5% uptime
-- Ensure data encryption at rest/transit
+</td>
+<td width="33%" valign="top">
 
-### 📈 Growth Metrics
-- Target 10,000 users in Year 1
-- Maintain 40% Week 1 retention
-- Enable 5,000+ collaborations
-
-### 🚀 Future Expansion
-- Prepare for AI matchmaking
-- Design payment integration
-- Build community features
-
-## ✅ Success Indicators
-- 90% onboarding completion
-- <2-second app loading
-- 4.5/5 user satisfaction rating
+### ⚡ **Performance**
+- Cross-platform compatibility
+- 60 FPS performance
+- 10K+ concurrent users
+- <2-second loading
 - <1% crash rate
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🔒 **Security & Reliability**
+- Row-Level Security (RLS)
+- 99.5% uptime guarantee
+- End-to-end encryption
+- Data backup systems
+- Regular security audits
+
+</td>
+<td width="33%" valign="top">
+
+### 📈 **Growth & Metrics**
+- 10K users in Year 1
+- 40% Week 1 retention
+- 5K+ collaborations
+- 90% onboarding success
+- 4.5/5 satisfaction rating
+
+</td>
+<td width="33%" valign="top">
+
+### 🚀 **Future Expansion**
+- AI matchmaking system
+- Payment integration
+- Community features
+- Analytics dashboard
+- API ecosystem
+
+</td>
+</tr>
+</table>
+</div>
 <br><br>
 
 # PROBLEM STATEMENTS <img src="g.png" width="40" align="left"/>
