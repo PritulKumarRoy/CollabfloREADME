@@ -220,7 +220,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
   <td style ("border: none; text-align: left;">
   <h3>Signup screen</h3>
     <br>
-  <img src=e2" width="400">
+  <img src=e2.png" width="400">
     </td>
   </tr>
     
