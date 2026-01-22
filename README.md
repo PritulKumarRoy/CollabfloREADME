@@ -267,21 +267,18 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 
 <div style ("display: flex; flex-wrap: wrap; gap: 20px">
 <div style ("width: 45%; min-width: 300px;">
-<h3> Registration screen </h3>
+<h3> Signin screen </h3>
   <br>
 <ul> 
-  <li> New user account registration. </li>
-  <li> Old user account re-login. </li>
-  <li> User account deletion (if-wanted). </li> 
+  <li> Old user account login. </li>
 </ul> 
 </div>
 
 <div style ("width: 45%; min-width: 300px;">
-<h3> Login screen </h3>
+<h3> Signup screen </h3>
   <br>
 <ul> 
-  <li> User account login (exact input of login credentials). </li>
-  <li> New user registration and re-login. </li>
+  <li> New user account registration (exact input of login credentials). </li>
   <li> Access to main "Home page" of the application. </li> 
 </ul> 
 </div>
@@ -290,46 +287,47 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 <h3>Home screen</h3>
   <br>
 <ul> 
-  <li> User profile display. </li>
-  <li> Display of the '3' main buttons of the application. </li>
+  <li> Multiple users real time post display. </li>
+  <li> User can toggle between light and dark theme. </li>
+  <li> User can like, comment and share on any post made by user </li>li>
   <li> User logout access. </li> 
 </ul> 
 </div>
 
 <div style ("width: 45%; min-width: 300px;">
-<h3>Location tracking screen</h3>
+<h3>Chat screen</h3>
   <br>
 <ul> 
-  <li> User current location data analytics display </li>
-  <li> Real-time location check against pre-defined geofence boundary with proper fingerprint authentication in order to detect an user is currently 'inside' or 'outside' the boundary. </li>
-  <li> Based on final result displayed on screen, quick notification triggering happens with the result being saved in 'firebase' backend database. </li>
-  <li> Until the screen is active the real-time location tracking goes on with updated analytics data. </li>
-  <li> Until and unless the screen gets inactive, continious real-time location data fetching goes on to the 'firebase' backend database. </li>
+  <li> Users can collab and chat with each other via text or voice messaging </li>
+  <li> User also can edit and delete any chat data seamlessly</li>
 </ul> 
 </div>
 
 <div style ("width: 45%; min-width: 300px;">
-<h3>Custom geofence screen</h3>
+<h3>Post screen</h3>
   <br>
 <ul> 
-  <li> Any user's real-time location check against pre-defined geofence boundary only with availability of 'latitude' and 'longitude' data. </li>
-  <li> User real-time path trajectory track on OSM display with analytics. </li>
-  <li> Real-time multiple user's location sharing and display on map (with user consent). </li> 
-  <li> Access to versatile map tiles like satellite view, street view, etc. </li>
+  <li> User can make post of any content and share it in the community for increasing collaborations. </li>
 </ul> 
 </div>
 
 <div style ("width: 45%; min-width: 300px;">
-<h3>Map screen</h3>
+<h3>Discover screen</h3>
   <br>
 <ul> 
-  <li> OpenStreetMap display with location navigation. </li>
-  <li> Capture coordinate ability by clicking on any location of map. </li>
-  <li> Database within application for storing, copyieng and deletion of coordinates being captured. </li>
-  <li> Access to versatile map tiles like satellite view, street view, etc. </li>
-</ul> 
+  <li> User can search for creators and businesses to connect and collaborate seamlessly. </li>
+  <li> Seperate display of 'collaboratings' and 'collaborators' for better user experience. </li>
+</ul>  
 </div>
 
+<div style ("width: 45%; min-width: 300px;">
+<h3>Profile screen</h3>
+  <br>
+<ul> 
+  <li> User can enhance, edit and modify their respective profiles by filling out the input fields. </li>
+  <li> A verification badge 'flo' can be gained by fulfilling the required criterias that helps the profile to be verified by "Collabflo". </li>
+</ul> 
+</div>
 </div>
 <br><br>
 
