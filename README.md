@@ -214,13 +214,13 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
   <td style ("border: none; text-align: left;">
   <h3>Signin screen</h3>
     <br>
-  <img src="sa.png" width="400">
+  <img src="e1.png" width="400">
     </td><br>
     
   <td style ("border: none; text-align: left;">
   <h3>Signup screen</h3>
     <br>
-  <img src="sb.png" width="400">
+  <img src=e2" width="400">
     </td>
   </tr>
     
@@ -228,13 +228,13 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
   <td style ("border: none; text-align: left;">
   <h3>Home screen</h3>
     <br>
-  <img src="sc.png" width="400">
+  <img src="e3.png" width="400">
     </td><br>
     
   <td style ("border: none; text-align: left;">
   <h3>Chat screen</h3>
     <br>
-  <img src="sd.png" width="400">
+  <img src="e4.png" width="400">
     </td>
   </tr>
     
@@ -242,20 +242,20 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
   <td style ("border: none; text-align: left;">
   <h3>Post screen</h3>
     <br>
-  <img src="se.png" width="400">
+  <img src="e5.png" width="400">
     </td><br>
     
   <td style ("border: none; text-align: left;">
   <h3>Discover screen</h3>
     <br>
-  <img src="sf.png" width="400">
+  <img src="e6.png" width="400">
     </td>
   </tr>
 
   <td style ("border: none; text-align: left;">
   <h3>Profile screen</h3>
     <br>
-  <img src="sf.png" width="400">
+  <img src="e7.png" width="400">
     </td>
   </tr>
 <br><br>
