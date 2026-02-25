@@ -238,7 +238,6 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 ---
 
 ## 🔑 KEY FUNCTIONS
-<img src="e.png" width="40" align="left"/>
 
 <br><br>
 
