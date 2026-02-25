@@ -262,73 +262,102 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 </table>
 <br><br>
 
-# KEY FUNCTIONS <img src="e.png" width="40" align="left"/>
-<br>
+You're absolutely right! That was messy and poorly formatted. Here's the clean, proper version:
 
-<div style ("display: flex; flex-wrap: wrap; gap: 20px">
-<div style ("width: 45%; min-width: 300px;">
-<h3> Signin screen </h3>
-  <br>
-<ul> 
-  <li> Old user account login. </li>
-</ul> 
-</div>
+---
 
-<div style ("width: 45%; min-width: 300px;">
-<h3> Signup screen </h3>
-  <br>
-<ul> 
-  <li> New user account registration (exact input of login credentials). </li>
-  <li> Access to main "Home page" of the application. </li> 
-</ul> 
-</div>
+# 🔑 KEY FUNCTIONS
+<img src="e.png" width="40" align="left"/>
+<br><br>
 
-<div style ("width: 45%; min-width: 300px;">
-<h3>Home screen</h3>
-  <br>
-<ul> 
-  <li> Multiple users real time post display. </li>
-  <li> User can toggle between light and dark theme. </li>
-  <li> User can like, comment and share on any post made by user </li>li>
-  <li> User logout access. </li> 
-</ul> 
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+<div style="width: 45%; min-width: 300px;">
+<h3>📱 Sign In Screen</h3>
+<ul>
+  <li>Existing user login with email and password</li>
+  <li>"Forgot Password" option for account recovery</li>
+  <li>Remember me functionality for quick access</li>
+  <li>Redirect to Sign Up screen for new users</li>
+</ul>
 </div>
 
-<div style ("width: 45%; min-width: 300px;">
-<h3>Chat screen</h3>
-  <br>
-<ul> 
-  <li> Users can collab and chat with each other via text or voice messaging </li>
-  <li> User also can edit and delete any chat data seamlessly</li>
-</ul> 
+<div style="width: 45%; min-width: 300px;">
+<h3>📝 Sign Up Screen</h3>
+<ul>
+  <li>New user registration with email and password</li>
+  <li>Role selection: Business or Creator account type</li>
+  <li>Username creation and profile photo upload</li>
+  <li>Automatic access to Home screen after successful registration</li>
+</ul>
 </div>
 
-<div style ("width: 45%; min-width: 300px;">
-<h3>Post screen</h3>
-  <br>
-<ul> 
-  <li> User can make post of any content and share it in the community for increasing collaborations. </li>
-</ul> 
+<div style="width: 45%; min-width: 300px;">
+<h3>🏠 Home Screen</h3>
+<ul>
+  <li>Real-time display of posts from all community members</li>
+  <li>Light/Dark theme toggle for personalized experience</li>
+  <li>Like, comment, and share functionality on posts</li>
+  <li>Quick logout access from app bar</li>
+  <li>Bottom navigation bar for easy screen switching</li>
+</ul>
 </div>
 
-<div style ("width: 45%; min-width: 300px;">
-<h3>Discover screen</h3>
-  <br>
-<ul> 
-  <li> User can search for creators and businesses to connect and collaborate seamlessly. </li>
-  <li> Seperate display of 'collaboratings' and 'collaborators' for better user experience. </li>
-</ul>  
+<div style="width: 45%; min-width: 300px;">
+<h3>💬 Chat Screen</h3>
+<ul>
+  <li>Real-time text messaging with collaborators</li>
+  <li>Voice message recording and playback feature</li>
+  <li>Edit and delete sent messages seamlessly</li>
+  <li>Share images and collaboration files</li>
+  <li>Typing indicators and read receipts</li>
+</ul>
 </div>
 
-<div style ("width: 45%; min-width: 300px;">
-<h3>Profile screen</h3>
-  <br>
-<ul> 
-  <li> User can enhance, edit and modify their respective profiles by filling out the input fields. </li>
-  <li> A verification badge 'flo' can be gained by fulfilling the required criterias that helps the profile to be verified by "Collabflo". </li>
-</ul> 
+<div style="width: 45%; min-width: 300px;">
+<h3>📤 Post Screen</h3>
+<ul>
+  <li>Create posts with text, images, or videos</li>
+  <li>Share updates, achievements, and opportunities</li>
+  <li>Tag relevant businesses or creators in posts</li>
+  <li>Boost visibility for collaboration opportunities</li>
+</ul>
 </div>
+
+<div style="width: 45%; min-width: 300px;">
+<h3>🔍 Discover Screen</h3>
+<ul>
+  <li>Search for creators and businesses by name or niche</li>
+  <li>Filter by role, industry, skills, or location</li>
+  <li>Separate tabs for "Collaboratings" (sent requests)</li>
+  <li>Separate tabs for "Collaborators" (accepted connections)</li>
+  <li>Send collaboration requests directly from search results</li>
+</ul>
 </div>
+
+<div style="width: 45%; min-width: 300px;">
+<h3>👤 Profile Screen</h3>
+<ul>
+  <li>Edit and customize profile information</li>
+  <li>Add portfolio links, skills, and work samples</li>
+  <li>View collaboration history and reviews</li>
+  <li>Earn "Flo Verification Badge" by meeting quality criteria</li>
+  <li>Track profile completeness score</li>
+</ul>
+</div>
+
+<div style="width: 45%; min-width: 300px;">
+<h3>📢 Campaign Screen</h3>
+<ul>
+  <li>Businesses can create collaboration campaigns</li>
+  <li>Define campaign goals, budget, and timeline</li>
+  <li>Creators can browse and apply to campaigns</li>
+  <li>Track campaign applications and responses</li>
+</ul>
+</div>
+
+</div>
+
 <br><br>
 
 # FUTURE POTENTIAL <img src="j.png" width="40" align="left"/>
