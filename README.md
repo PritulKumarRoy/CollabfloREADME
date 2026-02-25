@@ -239,7 +239,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 
 ## 🔑 KEY FUNCTIONS
 
-<br><br>
+<br>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
