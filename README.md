@@ -1,5 +1,9 @@
-# Collabflo
-### *A mobile application that connects businesses and creators for seamless, meaningful collaborations.*
+<div align="center">
+  <img src="e.png" width="120" height="120" alt="Collabflo Logo"/>
+</div>
+
+<h1 align="center">Collabflo</h1>
+<h3 align="center"><em>A mobile application that connects businesses and creators for seamless, meaningful collaborations.</em></h3>
 
 <br>
 
