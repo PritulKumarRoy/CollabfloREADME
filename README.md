@@ -9,7 +9,7 @@
 
 ---
 
-# OVERVIEW <img src="ca.png" width="48" height="48" style="vertical-align: middle; margin-left: 10px;" alt="icon"/>
+# <img src="ca.png" width="48" height="48" style="vertical-align: middle; margin-right: 10px;" alt="icon"/> OVERVIEW
 
 <br>
 
@@ -19,7 +19,7 @@ Collabflo is a mobile application where versatile businesses and creators can cr
 
 ---
 
-# OBJECTIVES <img src="cb.png" width="48" height="48" style="vertical-align: middle; margin-left: 10px;" alt="icon"/>
+# <img src="cb.png" width="48" height="48" style="vertical-align: middle; margin-right: 10px;" alt="icon"/> OBJECTIVES
 
 <br>
 
@@ -52,7 +52,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 
 ---
 
-# PROBLEM STATEMENTS <img src="cc.png" width="48" height="48" style="vertical-align: middle; margin-left: 10px;" alt="icon"/>
+# <img src="cc.png" width="48" height="48" style="vertical-align: middle; margin-right: 10px;" alt="icon"/> PROBLEM STATEMENTS
 
 <br>
 
@@ -188,7 +188,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 
 ---
 
-# TECHNOLOGY STACK <img src="cd.png" width="48" height="48" style="vertical-align: middle; margin-left: 10px;" alt="icon"/>
+# <img src="cd.png" width="48" height="48" style="vertical-align: middle; margin-right: 10px;" alt="icon"/> TECHNOLOGY STACK
 
 <br>
 
@@ -203,7 +203,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 
 ---
 
-# MOBILE INTERFACES <img src="ce.png" width="48" height="48" style="vertical-align: middle; margin-left: 10px;" alt="icon"/>
+# <img src="ce.png" width="48" height="48" style="vertical-align: middle; margin-right: 10px;" alt="icon"/> MOBILE INTERFACES
 
 <br>
 
@@ -237,7 +237,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 
 ---
 
-## KEY FUNCTIONS <img src="ce.png" width="48" height="48" style="vertical-align: middle; margin-left: 10px;" alt="icon"/>
+## <img src="ce.png" width="48" height="48" style="vertical-align: middle; margin-right: 10px;" alt="icon"/> KEY FUNCTIONS
 
 <br>
 
@@ -325,7 +325,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 
 ---
 
-# FUTURE POTENTIAL <img src="cf.png" width="48" height="48" style="vertical-align: middle; margin-left: 10px;" alt="icon"/>
+# <img src="cf.png" width="48" height="48" style="vertical-align: middle; margin-right: 10px;" alt="icon"/> FUTURE POTENTIAL
 
 <br>
 
