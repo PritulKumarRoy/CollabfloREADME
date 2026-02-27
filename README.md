@@ -9,7 +9,7 @@
 
 ---
 
-## OVERVIEW <img src="b.png" width="40" align="left"/>
+## OVERVIEW <img src="ca.png" width="40" align="left"/>
 
 <br>
 
@@ -19,7 +19,7 @@ The 'Collabflo' is a mobile application where versatile businesses and creators 
 
 ---
 
-## OBJECTIVES <img src="f.png" width="40" align="left"/>
+## OBJECTIVES <img src="cb.png" width="40" align="left"/>
 
 <br>
 
@@ -52,7 +52,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 
 ---
 
-## PROBLEM STATEMENTS <img src="g.png" width="40" align="left"/>
+## PROBLEM STATEMENTS <img src="cc.png" width="40" align="left"/>
 
 <br>
 
@@ -188,7 +188,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 
 ---
 
-## TECHNOLOGY STACK <img src="g.png" width="40" align="left"/>
+## TECHNOLOGY STACK <img src="cd.png" width="40" align="left"/>
 
 <br>
 
@@ -203,7 +203,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 
 ---
 
-## MOBILE INTERFACES <img src="i.png" width="40" align="left"/>
+## MOBILE INTERFACES <img src="ce.png" width="40" align="left"/>
 
 <br>
 
@@ -237,7 +237,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 
 ---
 
-## 🔑 KEY FUNCTIONS
+## KEY FUNCTIONS <img src="ce.png" width="40" align="left"/>
 
 <br>
 
@@ -325,7 +325,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 
 ---
 
-## 🚀 **FUTURE POTENTIAL**
+## FUTUTRE POTENTIAL <img src="cf.png" width="40" align="left"/>
 
 <br>
 
