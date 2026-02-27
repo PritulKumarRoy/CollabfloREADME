@@ -9,17 +9,17 @@
 
 ---
 
-# OVERVIEW <img src="ca.png" width="40" align="left"/>
+# OVERVIEW <img src="ca.png" width="48" height="48" style="vertical-align: middle; margin-left: 10px;" alt="icon"/>
 
 <br>
 
-The 'Collabflo' is a mobile application where versatile businesses and creators can create, connect and collaborate for limitless opportunities. Users can create respective profiles as "business" or a "creator", collab/uncollab each other, chat seamlessly and many more. This platform acts as a healthy ecosystem where businesses and creators collaborate to create something big.
+Collabflo is a mobile application where versatile businesses and creators can create, connect and collaborate for limitless opportunities. Users can create respective profiles as a "business" or a "creator", collab/uncollab with each other, chat seamlessly and many more. This platform acts as a healthy ecosystem where businesses and creators collaborate to create something big.
 
 <br>
 
 ---
 
-# OBJECTIVES <img src="cb.png" width="40" align="left"/>
+# OBJECTIVES <img src="cb.png" width="48" height="48" style="vertical-align: middle; margin-left: 10px;" alt="icon"/>
 
 <br>
 
@@ -52,7 +52,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 
 ---
 
-# PROBLEM STATEMENTS <img src="cc.png" width="40" align="left"/>
+# PROBLEM STATEMENTS <img src="cc.png" width="48" height="48" style="vertical-align: middle; margin-left: 10px;" alt="icon"/>
 
 <br>
 
@@ -90,7 +90,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 | :--- | :--- | :--- |
 | **Discovery** | Can't filter creators by niche + budget | Settle for mismatched talent |
 | **Vetting** | No standardized performance metrics | High-risk hiring decisions |
-| **Coordination** | Multiple point-of-contacts for one project | Scope creep and misalignment |
+| **Coordination** | Multiple points-of-contact for one project | Scope creep and misalignment |
 | **Payment** | No escrow or milestone protection | 15% project budget lost to disputes |
 | **Scaling** | Can't manage multiple creators efficiently | Manual spreadsheet tracking |
 
@@ -120,7 +120,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 
 | **Layer** | **Current Gap** | **User Impact** |
 | :--- | :--- | :--- |
-| **Real-time Sync** | No live collaboration status updates | Missed opportunities and coordination fails |
+| **Real-time Sync** | No live collaboration status updates | Missed opportunities and coordination failures |
 | **Media Management** | No optimized upload/compression | 60% slower portfolio loading |
 | **Cross-platform** | Platform-specific limitations | Android/iOS/Web experience inconsistencies |
 | **Data Security** | Sensitive project details in unsecured chats | IP theft and confidentiality breaches |
@@ -154,7 +154,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 | :--- | :--- | :--- |
 | **AI Integration** | No predictive matching or automation | Becoming obsolete as competitors add AI |
 | **Mobile-First** | Desktop-heavy existing solutions | Missing 70% of creator workflow (mobile) |
-| **API Ecosystem** | Closed systems, no integrations | Can't connect to users' existing toolstack |
+| **API Ecosystem** | Closed systems, no integrations | Can't connect to users' existing tool stack |
 | **Analytics** | Basic metrics, no actionable insights | Users can't optimize their performance |
 | **Globalization** | Single currency/language support | Missing 85% of addressable market |
 
@@ -166,7 +166,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 
 <br>
 
-**CollabFlo solves these interconnected problems by providing:**
+**Collabflo solves these interconnected problems by providing:**
 
 ✅ **Unified Discovery** - Structured profiles with verified metrics  
 ✅ **Streamlined Workflow** - End-to-end collaboration management  
@@ -188,7 +188,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 
 ---
 
-# TECHNOLOGY STACK <img src="cd.png" width="40" align="left"/>
+# TECHNOLOGY STACK <img src="cd.png" width="48" height="48" style="vertical-align: middle; margin-left: 10px;" alt="icon"/>
 
 <br>
 
@@ -203,13 +203,13 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 
 ---
 
-# MOBILE INTERFACES <img src="ce.png" width="40" align="left"/>
+# MOBILE INTERFACES <img src="ce.png" width="48" height="48" style="vertical-align: middle; margin-left: 10px;" alt="icon"/>
 
 <br>
 
 <div align="center">
 
-| <h3>Signin Screen</h3> | <h3>Signup Screen</h3> |
+| <h3>Sign In Screen</h3> | <h3>Sign Up Screen</h3> |
 | :---: | :---: |
 | <img src="e1.png" width="300"> | <img src="e2.png" width="300"> |
 
@@ -237,7 +237,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 
 ---
 
-## KEY FUNCTIONS <img src="ce.png" width="40" align="left"/>
+## KEY FUNCTIONS <img src="ce.png" width="48" height="48" style="vertical-align: middle; margin-left: 10px;" alt="icon"/>
 
 <br>
 
@@ -325,7 +325,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 
 ---
 
-# FUTUTRE POTENTIAL <img src="cf.png" width="40" align="left"/>
+# FUTURE POTENTIAL <img src="cf.png" width="48" height="48" style="vertical-align: middle; margin-left: 10px;" alt="icon"/>
 
 <br>
 
@@ -369,7 +369,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 | :---: | :--- | :---: |
 | **Step 01** | Business and creator agree on terms and create a digital deal | 🟡 Agreement Pending |
 | **Step 02** | Both parties sign the contract digitally | 🟢 Deal Active |
-| **Step 03** | Business deposits full amount into CollabFlo escrow | 💰 Funds Secured |
+| **Step 03** | Business deposits full amount into Collabflo escrow | 💰 Funds Secured |
 | **Step 04** | Creator completes work and submits for review | 📤 Under Review |
 | **Step 05** | Business reviews and approves completed work | ✅ Work Approved |
 | **Step 06** | Payment automatically released to creator's account | 💵 Payment Completed |
