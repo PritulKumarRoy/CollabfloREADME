@@ -194,7 +194,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 
 <div align="center">
 
-| <img src="l1.png" width="40"/> Flutter | <img src="l2.png" width="40"/> Supabase | <img src="l3.png" width="40"/> Android Studio |
+| <img src="l1.png" width="40"/> Flutter | <img src="l10.png" width="40"/> Supabase | <img src="l6.png" width="40"/> Android Studio |
 | :---: | :---: | :---: |
 
 </div>
