@@ -237,7 +237,7 @@ Build a scalable Flutter platform connecting creators and businesses for seamles
 
 ---
 
-## <img src="ce.png" width="48" height="48" style="vertical-align: middle; margin-right: 10px;" alt="icon"/> KEY FUNCTIONS
+# <img src="cg.png" width="48" height="48" style="vertical-align: middle; margin-right: 10px;" alt="icon"/> KEY FUNCTIONS
 
 <br>
 
